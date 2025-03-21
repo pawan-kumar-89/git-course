@@ -4,4 +4,3 @@ manage the database
 closing the connectiong
 
 changes 1
-changes 2
