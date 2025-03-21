@@ -1,13 +1,10 @@
 add and remove users
 change the roles
 manage the database
-<<<<<<< HEAD
-closing the connectiong
 
-changes 1
-change 2 in my database
-=======
+
+
 closing the connection
 
-chnages happen in harsh database
->>>>>>> feature3
+changes happen in harsh database
+
